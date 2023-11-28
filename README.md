@@ -45,4 +45,6 @@ cd steel-defect-detection
 ## Contributing
 Contributions, issues, and feature requests are welcome. Please check the for open tasks or create a new one.
 
-##Link To Deployed Platform
+##Link To Deployed Platform :  https://steeldetection-nbxhn2x64emnegsvuhontq.streamlit.app/
+##Link to data used: https://drive.google.com/drive/folders/1Jdi_vA03N5mWVNExHBG4iE2pjHhnZ7Ji?usp=sharing
+
